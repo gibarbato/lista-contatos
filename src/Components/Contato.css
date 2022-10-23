@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(27, 42, 74);
+}
+
+.componente-contato {
+    background-color: rgb(240, 235, 207);
+    color: black;
+    border-radius: 5px;
+}
